@@ -1,1 +1,2 @@
-# AI-TE1
+# Penugasan Kecerdasan Buatan
+# Anggota Kelompok
