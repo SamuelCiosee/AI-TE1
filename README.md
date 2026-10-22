@@ -1,2 +1,1 @@
-# Penugasan Kecerdasan Buatan
-# Anggota Kelompok
+# BLANK
